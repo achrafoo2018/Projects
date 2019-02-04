@@ -138,3 +138,4 @@ while True:  # repeat the game while the players wanna play again
 
 # print final score of players
 print("\nGG Final Scores : \n\n" + name1 + "\t-->\t" + str(score1) + "\n" + name2 + "\t-->\t" + str(score2) + "\n")
+
