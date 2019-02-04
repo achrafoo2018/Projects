@@ -12,4 +12,3 @@ for i in range(330):
         tr.left(300) # Change This Value And Enjoy :D
         
 turtle.done()
-
