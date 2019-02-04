@@ -169,5 +169,5 @@ while True:
         print(f'{name2} ({p2}) score : {player2_score}')
         break
 
-
-
+        
+        
