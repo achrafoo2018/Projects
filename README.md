@@ -1,2 +1,2 @@
 # Projects
-This is my projects
+This is my mini projects that i made while learning python
