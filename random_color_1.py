@@ -5,11 +5,11 @@ colors = ['blue','purple','red','yellow','orange','green']
 tr = turtle.Pen()
 tr.speed(100)
 turtle.bgcolor("black")
-for x in range(330):
+for i in range(330):
         tr.pencolor(colors[randint(0,5)])
-        tr.width(x/100+1)
+        tr.width(i/150)
         tr.forward(x)
-        tr.left(300)
+        tr.left(300) # Change This Value And Enjoy :D
         
 turtle.done()
 
